@@ -4,12 +4,12 @@
 
 **A bold, motion-rich landing experience built with React + Vite**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=for-the-badge&logo=vercel)](LIVE_URL)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=for-the-badge&logo=vercel)](https://aether-store-sigma.vercel.app/)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![CSS](https://img.shields.io/badge/Pure_CSS-No_Libraries-FF4D8D?style=for-the-badge&logo=css3&logoColor=white)
 
-[🔗 Live Demo](LIVE_URL) · [🐛 Report a Bug](https://github.com/wwwrania1922-beep/aether-store/issues)
+[🔗 Live Demo](https://aether-store-sigma.vercel.app/) · [🐛 Report a Bug](https://github.com/wwwrania1922-beep/aether-store/issues)
 
 </div>
 
