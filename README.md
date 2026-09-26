@@ -9,7 +9,7 @@
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![CSS](https://img.shields.io/badge/Pure_CSS-No_Libraries-FF4D8D?style=for-the-badge&logo=css3&logoColor=white)
 
-[🔗 Live Demo](https://aether-store-sigma.vercel.app/) · [🐛 Report a Bug](https://github.com/wwwrania1922-beep/aether-store/issues)
+[🔗 Live Demo](https://aether-store-sigma.vercel.app/)
 
 </div>
 
